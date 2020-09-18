@@ -19,7 +19,7 @@
         android:layout_marginBottom="8dp"/>
 
     <Button
-        android:id="@+id/resultado_voltar"
+        android:id="@+id/resultado_botao_voltar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/botao_voltar"
